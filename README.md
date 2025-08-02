@@ -48,7 +48,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/CaioJ12/CaioJ12/output/snake.svg" alt="Snake animation" />
-
-###
